@@ -1,0 +1,4 @@
+export CLASSPATH=.:/usr/share/java/jython.jar:/usr/share/java/guava-19.0.jar:/usr/share/java/jnr-constants-0.8.6.jar:/usr/share/java/jnr-posix.jar:/usr/share/java/antlr3-runtime-3.2.jar:/usr/share/java/asm3-all.jar
+
+//run the program with:
+ java -Dpython.cachedir=/tmp javaClassFile
